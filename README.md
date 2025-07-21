@@ -226,4 +226,6 @@ If you enjoy RunCat365, please consider:
 
 ---
 
+---
+
 Made with ❤️ for Windows users who love cute animations!
