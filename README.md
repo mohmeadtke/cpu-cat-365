@@ -4,17 +4,20 @@
 
 RunCat365 displays an adorable animated cat in your Windows system tray that runs faster or slower based on your CPU usage. The higher your CPU load, the faster the cat runs! 🐱
 
+> [!NOTE]
+> This is a fork of the original [RunCat365 by Kyome22](https://github.com/Kyome22/RunCat365) with enhanced documentation, build scripts, and setup instructions to make it easier for anyone to build and run.
+
 > [!CAUTION]
 >
 > - This project is for Windows only, so we do not accept inquiries about macOS version.
 > - We do not accept issues or pull requests in languages other than English.
 
-[![Github issues](https://img.shields.io/github/issues/Kyome22/RunCat365)](https://github.com/Kyome22/RunCat365/issues)
-[![Github forks](https://img.shields.io/github/forks/Kyome22/RunCat365)](https://github.com/Kyome22/RunCat365/network/members)
-[![Github stars](https://img.shields.io/github/stars/Kyome22/RunCat365)](https://github.com/Kyome22/RunCat365/stargazers)
-[![Top language](https://img.shields.io/github/languages/top/Kyome22/RunCat365)](https://github.com/Kyome22/RunCat365/)
-[![Release](https://img.shields.io/github/v/release/Kyome22/RunCat365)]()
-[![Github license](https://img.shields.io/github/license/Kyome22/RunCat365)](https://github.com/Kyome22/RunCat365/)
+[![Github issues](https://img.shields.io/github/issues/mohmeadtke/cpu-cat-365)](https://github.com/mohmeadtke/cpu-cat-365/issues)
+[![Github forks](https://img.shields.io/github/forks/mohmeadtke/cpu-cat-365)](https://github.com/mohmeadtke/cpu-cat-365/network/members)
+[![Github stars](https://img.shields.io/github/stars/mohmeadtke/cpu-cat-365)](https://github.com/mohmeadtke/cpu-cat-365/stargazers)
+[![Top language](https://img.shields.io/github/languages/top/mohmeadtke/cpu-cat-365)](https://github.com/mohmeadtke/cpu-cat-365/)
+[![Release](https://img.shields.io/github/v/release/mohmeadtke/cpu-cat-365)]()
+[![Github license](https://img.shields.io/github/license/mohmeadtke/cpu-cat-365)](https://github.com/mohmeadtke/cpu-cat-365/)
 
 `C#` `.NET 9.0` `Visual Studio` `RunCat`
 
@@ -46,7 +49,7 @@ Before you can run RunCat365, make sure you have the following installed:
 ## Quick Start
 
 ### Option 1: Download Pre-built Release (Easiest)
-1. Go to the [Releases page](https://github.com/YOUR_USERNAME/RunCat365/releases)
+1. Go to the [Releases page](https://github.com/mohmeadtke/cpu-cat-365/releases)
 2. Download the latest `RunCat365-Windows.zip`
 3. Extract the ZIP file
 4. Double-click `RunCat 365.exe`
@@ -56,8 +59,8 @@ Before you can run RunCat365, make sure you have the following installed:
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/RunCat365.git
-cd RunCat365
+git clone https://github.com/mohmeadtke/cpu-cat-365.git
+cd cpu-cat-365
 ```
 
 #### Step 2: Install .NET 9.0 SDK
@@ -196,7 +199,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 If you enjoy RunCat365, please consider:
 - ⭐ Starring this repository
-- 🐛 Reporting bugs via [Issues](https://github.com/YOUR_USERNAME/RunCat365/issues)
+- 🐛 Reporting bugs via [Issues](https://github.com/mohmeadtke/cpu-cat-365/issues)
 - 🚀 Suggesting new features
 - 🤝 Contributing code
 

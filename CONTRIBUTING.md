@@ -5,7 +5,7 @@ Thank you for your interest in contributing to RunCat365! 🐱
 ## How to Contribute
 
 ### Reporting Bugs
-1. Check if the bug has already been reported in [Issues](https://github.com/YOUR_USERNAME/RunCat365/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/mohmeadtke/cpu-cat-365/issues)
 2. If not, create a new issue with:
    - Clear description of the problem
    - Steps to reproduce
@@ -14,7 +14,7 @@ Thank you for your interest in contributing to RunCat365! 🐱
    - Screenshots if applicable
 
 ### Suggesting Features
-1. Check existing [Issues](https://github.com/YOUR_USERNAME/RunCat365/issues) for similar suggestions
+1. Check existing [Issues](https://github.com/mohmeadtke/cpu-cat-365/issues) for similar suggestions
 2. Create a new issue with the "enhancement" label
 3. Describe the feature and why it would be useful
 4. Include mockups or examples if possible
@@ -31,8 +31,8 @@ Thank you for your interest in contributing to RunCat365! 🐱
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/RunCat365.git
-   cd RunCat365
+   git clone https://github.com/mohmeadtke/cpu-cat-365.git
+   cd cpu-cat-365
    ```
 3. Create a feature branch:
    ```bash
