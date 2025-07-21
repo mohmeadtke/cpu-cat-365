@@ -5,6 +5,7 @@ Thank you for your interest in contributing to RunCat365! 🐱
 ## How to Contribute
 
 ### Reporting Bugs
+
 1. Check if the bug has already been reported in [Issues](https://github.com/mohmeadtke/cpu-cat-365/issues)
 2. If not, create a new issue with:
    - Clear description of the problem
@@ -14,6 +15,7 @@ Thank you for your interest in contributing to RunCat365! 🐱
    - Screenshots if applicable
 
 ### Suggesting Features
+
 1. Check existing [Issues](https://github.com/mohmeadtke/cpu-cat-365/issues) for similar suggestions
 2. Create a new issue with the "enhancement" label
 3. Describe the feature and why it would be useful
@@ -22,12 +24,14 @@ Thank you for your interest in contributing to RunCat365! 🐱
 ### Code Contributions
 
 #### Prerequisites
+
 - Windows 10/11
 - .NET 9.0 SDK
 - Visual Studio 2022 or VS Code
 - Git
 
 #### Development Setup
+
 1. Fork the repository
 2. Clone your fork:
    ```bash
@@ -40,18 +44,21 @@ Thank you for your interest in contributing to RunCat365! 🐱
    ```
 
 #### Code Style
+
 - Follow standard C# conventions
 - Use meaningful variable and method names
 - Add comments for complex logic
 - Keep methods focused and small
 
 #### Testing
+
 - Test your changes thoroughly on Windows 10 and 11
 - Verify the app works in system tray
 - Test different CPU load scenarios
 - Ensure themes switch correctly
 
 #### Submitting Changes
+
 1. Commit your changes with clear messages:
    ```bash
    git commit -m "Add feature: description of what you added"
@@ -68,18 +75,21 @@ Thank you for your interest in contributing to RunCat365! 🐱
 ## Areas for Contribution
 
 ### Beginner Friendly
+
 - 🐛 Bug fixes
 - 📝 Documentation improvements
 - 🎨 Icon/animation improvements
 - 🌐 Localization/translations
 
 ### Intermediate
+
 - ⚡ Performance optimizations
 - 🎛️ New settings/preferences
 - 🔧 Code refactoring
 - 🧪 Unit tests
 
 ### Advanced
+
 - 🆕 New animal themes
 - 🔌 Plugin system
 - 📊 Advanced system monitoring
